@@ -1,0 +1,26 @@
+
+
+
+body{
+
+background-color: #131722;
+color:white ;
+}
+
+
+.layer{
+    background-color:rgba(0, 0, 0, 0.7);
+    opacity: 0;
+
+    
+
+}
+  .layer:hover{
+
+    opacity: .7;
+    transition: 2s;
+
+}
+.MR{
+  margin-top: 10rem;
+}
